@@ -1,0 +1,6 @@
+C:\Users\Shahdee\Documents\Visual Studio 2012\Projects\List\List\bin\Release\List.exe.config
+C:\Users\Shahdee\Documents\Visual Studio 2012\Projects\List\List\bin\Release\List.exe
+C:\Users\Shahdee\Documents\Visual Studio 2012\Projects\List\List\bin\Release\List.pdb
+C:\Users\Shahdee\Documents\Visual Studio 2012\Projects\List\List\obj\Release\List.csprojResolveAssemblyReference.cache
+C:\Users\Shahdee\Documents\Visual Studio 2012\Projects\List\List\obj\Release\List.exe
+C:\Users\Shahdee\Documents\Visual Studio 2012\Projects\List\List\obj\Release\List.pdb
